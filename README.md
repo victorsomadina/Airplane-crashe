@@ -16,6 +16,6 @@ Tenerife-Las palmas route had the highest fatalities with about 583 fatalities.
 Douglas DC-3 have the highest fatalities.
 <img width="612" alt="{0E80A5E2-DCDE-45C4-8700-A4237CA0BCE2}" src="https://user-images.githubusercontent.com/103338741/179393380-4713031e-84ab-420a-9cf8-be3c654b8754.png">
 # Recommendation
-Boarding in festive periods especially December should be hghly monitored.
+Boarding in festive periods especially December should be highly monitored.
 Several precautions and measures should be taken to ensure safe travels like checking the weather condition, and state of airplanes.
 
