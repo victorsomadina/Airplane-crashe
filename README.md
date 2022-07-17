@@ -12,7 +12,7 @@ Major crashes occurred in 1972, 1985 and 1996.
 Russia have the highest crashes.
 Tenerife-Las palmas route had the highest fatalities with about 583 fatalities.
 Douglas DC-3 have the highest fatalities.
-![-ry1fk0](https://user-images.githubusercontent.com/103338741/179392881-9df3940a-8438-4cba-9ddc-9c2b3ac85011.jpg)
+<img width="612" alt="{0E80A5E2-DCDE-45C4-8700-A4237CA0BCE2}" src="https://user-images.githubusercontent.com/103338741/179393380-4713031e-84ab-420a-9cf8-be3c654b8754.png">
 # Recommendation
 Boarding in festive periods especially December should be hghly monitored.
 Several precautions and measures should be taken to ensure safe travels like checking the weather condition, and state of airplanes.
